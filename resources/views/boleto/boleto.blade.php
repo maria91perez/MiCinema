@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-    <h1>Confirmación de Reserva</h1>
+    <h1>Confirmación de Reserva para cada asistente</h1>
     <p>Gracias por tu reserva. Aquí está tu boleto:</p>
     <div class="card">
         <div class="card-body">
